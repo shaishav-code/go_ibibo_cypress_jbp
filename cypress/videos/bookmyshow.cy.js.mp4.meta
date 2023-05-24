@@ -1,0 +1,21 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=-1004
+END=5750
+title=Hotel booking Visited Goibibo website
+[CHAPTER]
+TIMEBASE=1/1000
+START=5302
+END=12517
+title=Hotel booking Select location
+[CHAPTER]
+TIMEBASE=1/1000
+START=14376
+END=19745
+title=Hotel booking Select the date
+[CHAPTER]
+TIMEBASE=1/1000
+START=20131
+END=25128
+title=Hotel booking Compare hotels

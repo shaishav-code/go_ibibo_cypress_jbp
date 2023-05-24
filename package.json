@@ -1,0 +1,19 @@
+{
+  "name": "book_myshow_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1",
+    "dayjs": "^1.11.7",
+    "moments": "^0.0.2"
+  }
+}
